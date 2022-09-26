@@ -15,3 +15,7 @@ Problems using bipartite matching(graph algo):
 - pianolessons: simply implement bipartite matching
 
 - programmingtutor: bipartite matching + binary search
+
+Problems from MAPS 2020:
+
+- magicalcows
