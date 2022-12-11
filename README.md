@@ -1,19 +1,19 @@
 # kattis-codes
 
-Code Archive for solved problems on Kattis.
+This is the code repo for all my solved problems on Kattis.
 
-My personal _vimrc for use.
+My personal vim config.
 
-Problems are categorized according to its difficulty / source.
+## Unfinished Problem
 
-## Covered Topic
-
-- Primality Test
-
-- Bipartite matching
+City Numbers - Alberta Collegiate Programming Contest 2022
 
 ## Used Codes
 
 https://github.com/UAPSPC/Code-Archive
 
 https://github.com/kth-competitive-programming/kactl
+
+## Contact Me
+
+If you have any questions regarding a solution, feel free to email me at kmiao@ualberta.ca
