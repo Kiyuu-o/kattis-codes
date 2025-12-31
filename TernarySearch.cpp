@@ -1,7 +1,6 @@
 /**
  * Author:		user kllp on codeforces
  * Date:		2025-12-31
- * License:		CC0
  * Description:	A quick ternary search helper.
  * Note:		The function should be first strictly increasing and then strictly decreasing or vice versa.
  * Source:		https://codeforces.com/blog/entry/11497
